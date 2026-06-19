@@ -5,8 +5,8 @@ BOT_TOKEN = "8953886144:AAFe42xShCjWzoAfauueIb3nmX_aNXHdcpk"
 
 async def menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [
-        [InlineKeyboardButton("🥤 1 Kola - 6000 TL", url="https://t.me/FERRRBBB")],
-        [InlineKeyboardButton("🌿 2 Nane - 2000 TL", url="https://t.me/FERRRBBB")]
+        [InlineKeyboardButton("🥤 1 Kola - 6000 TL", url="https://t.me/cLehder")],
+        [InlineKeyboardButton("🌿 2 Nane - 2000 TL", url="https://t.me/cLehder")]
     ]
 
     await update.message.reply_text(
